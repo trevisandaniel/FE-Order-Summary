@@ -21,7 +21,6 @@ body{
     background-image: url(/images/pattern-background-desktop.svg);
     background-repeat: repeat-x;
     height: 100vh;
-    max-width: 1440px;
     width: 100%;
     display: grid;
     place-items: center;
